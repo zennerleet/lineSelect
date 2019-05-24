@@ -1,0 +1,10 @@
+D:\C#\line Select\line Select\bin\Debug\line Select.exe.config
+D:\C#\line Select\line Select\bin\Debug\line Select.exe
+D:\C#\line Select\line Select\bin\Debug\line Select.pdb
+D:\C#\line Select\line Select\obj\Debug\line Select.csprojAssemblyReference.cache
+D:\C#\line Select\line Select\obj\Debug\line_Select.Properties.Resources.resources
+D:\C#\line Select\line Select\obj\Debug\line Select.csproj.GenerateResource.cache
+D:\C#\line Select\line Select\obj\Debug\line Select.csproj.CoreCompileInputs.cache
+D:\C#\line Select\line Select\obj\Debug\line Select.exe
+D:\C#\line Select\line Select\obj\Debug\line Select.pdb
+D:\C#\line Select\line Select\obj\Debug\line_Select.Form1.resources
