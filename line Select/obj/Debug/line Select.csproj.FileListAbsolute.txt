@@ -8,3 +8,9 @@ D:\C#\line Select\line Select\obj\Debug\line Select.csproj.CoreCompileInputs.cac
 D:\C#\line Select\line Select\obj\Debug\line Select.exe
 D:\C#\line Select\line Select\obj\Debug\line Select.pdb
 D:\C#\line Select\line Select\obj\Debug\line_Select.Form1.resources
+D:\C#\line Select\line Select\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\line Select\line Select\bin\Debug\Google.Protobuf.dll
+D:\C#\line Select\line Select\bin\Debug\MySql.Data.dll
+D:\C#\line Select\line Select\bin\Debug\Google.Protobuf.xml
+D:\C#\line Select\line Select\bin\Debug\MySql.Data.xml
+D:\C#\line Select\line Select\obj\Debug\line Select.csproj.CopyComplete
